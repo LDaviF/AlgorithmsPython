@@ -1,3 +1,4 @@
+
 def binarySearch(arr, item):
     low = 0
     high = len(arr) - 1
@@ -15,4 +16,4 @@ def binarySearch(arr, item):
 
 myArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-print(binarySearch(myArr, 2))
+print(binarySearch(myArr, 9))
